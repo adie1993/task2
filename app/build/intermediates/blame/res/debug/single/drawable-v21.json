@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/adie/.android/build-cache/ecf3a9738c84ac66c8e95cfaf2271dc1e121bd18/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/adie/.android/build-cache/ecf3a9738c84ac66c8e95cfaf2271dc1e121bd18/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/adie/.android/build-cache/ecf3a9738c84ac66c8e95cfaf2271dc1e121bd18/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

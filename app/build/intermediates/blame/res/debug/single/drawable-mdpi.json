@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_home.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-mdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_exit.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-mdpi/ic_exit.png"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_back.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-mdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_setting.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-mdpi/ic_setting.png"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_person.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-mdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_trash.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-mdpi/ic_trash.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_setting.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-xxhdpi/ic_setting.png"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_exit.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-xxhdpi/ic_exit.png"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_person.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-xxhdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/adie/Documents/navigation/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_trash.png",
+        "source": "/home/adie/Documents/navigation/app/src/main/res/drawable-xxhdpi/ic_trash.png"
+    }
+]
